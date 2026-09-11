@@ -11,10 +11,10 @@
 ## Part 1: Simulation
 Waveform showing all 5 required test vectors (m, q, p in unsigned decimal):
 
-![Simulation waveform](screenshots/Screenshot2026-09-11153157.png)
+![Simulation waveform](screenshots/Screenshot 2026-09-11 153157.png)
 
 ## Schematic
-![Schematic](screenshots/Screenshot2026-09-11153324.png)
+![Schematic](screenshots/Screenshot 2026-09-11 153324.png)
 
 ## Part 2: Block Diagram
 ![Block diagram](screenshots/IMG_4956.jpeg)
